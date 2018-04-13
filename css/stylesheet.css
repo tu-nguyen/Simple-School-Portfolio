@@ -23,7 +23,7 @@
     text-decoration: none;
 }
 .navbar ul{
-    margin-left: 880px;
+    float: right;
 }
 .navbar ul li{
     display: inline;
